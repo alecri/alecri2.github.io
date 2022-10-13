@@ -5,7 +5,7 @@
     <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/</link>
       <atom:link href="https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,55 +13,83 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Fast Fashion or Clean Clothes? Estimating the Value of Labor Standards</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/fastfashion_2021/</link>
+      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/fastfashion_2021/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Conquest and Conflict: The Colonial Roots of Maoist Violence in India</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/pands_2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/pands_2019/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Ethnic Parties and Public Spending: New Theory and Evidence From the Indian States</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cps_2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cps_2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foreign Direct Investment, Regime Type, and Labor Protest in Developing Countries</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/ajps_2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/ajps_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobilizing Restraint: Democracy and Industrial Conflict in Post-Reform South Asia</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cornell_2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cornell_2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring Trade Union Rights through Violations Recorded in Textual Sources: An Assessment</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/prq_2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/prq_2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mobilizing Restraint: Economic Reform and the Politics of Industrial Protest in South Asia</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/wp_2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/wp_2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can a developing democracy benefit from labour repression? Evidence from Sri Lanka</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/jds_2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/jds_2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In the Grip of a Green Giant: How the Rural Sector Tamed Organized Labor in India</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cps_2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cps_2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Was the Indian Labor Movement Ever Coopted?</title>
+      <link>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cas_2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/publication/cas_2006/</guid>
+      <description></description>
     </item>
     
   </channel>
