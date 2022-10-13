@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/project/probio/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/project/meta-analysis/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/project/other/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -546,19 +558,11 @@
     <lastmod>2016-08-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/tag/deep-learning/</loc>
+    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/tag/other/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/project/external-project/</loc>
+    <loc>https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/tag/probio/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
