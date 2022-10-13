@@ -1,29 +1,31 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include research on prostate cancer.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-first_name: Alice
+  - course: PhD in Biostatistics
+    institution: Karolinska Institutet, Stockholm (Sweden)
+    year: 2018
+  - course: MSc in Biostatistics and Experimental Statistics
+    institution: University of Milano-Bicocca, Milan (Italy)
+    year: 2013
+  - course: BSc in Statistics and Information Management
+    institution: University of Milano-Bicocca, Milan (Italy)
+    year: 2011
+email: "alessio.crippa@ki.se"
+first_name: Alessio
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-last_name: Bighetti
+- Clinical Trials
+- Bayesian Statistics
+- Data Science
+- Biostatistics
+- Epidemiology
+- R
+last_name: Crippa
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Karolinska Institutet
+  url: https://ki.se/
+role: Senior Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,22 +35,21 @@ social:
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/AlessioCrippa
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.se/citations?user=NLRD9vkAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/alecri
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/alessio-crippa-68519475/
 superuser: true
-title: Alice Bighetti 吳恩達
+title: Alessio Crippa
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a postdoctoral researcher in Epidemiology and Biostatistics at the Department of Medical Epidemiology and Biostatistics (MEB) at Karolinska Institutet (KI).
+Since 2018, I work at MEB as postdoctoral researcher, where my research focuses on the design and analysis of modern trials to reduce the prostate cancer mortality by using genetics biomarkers to individualized treatment decision.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "downloads/CVPhD.pdf" "newtab" >}}CV{{< /staticref >}}.

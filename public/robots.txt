@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://6346b314635e8e77d95c6d10--luminous-stardust-9f8aab.netlify.app/sitemap.xml
